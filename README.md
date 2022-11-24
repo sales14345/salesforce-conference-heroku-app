@@ -6,7 +6,7 @@ Supporting app for [this workshop module](http://ccoenraets.github.io/salesforce
 
 1. Access the following GitHub repository:
 
-    [https://github.com/ccoenraets/salesforce-conference-demo](https://github.com/ccoenraets/salesforce-conference-demo)
+    [https://github.com/sales14345/salesforce-conference-heroku-app](https://github.com/sales14345/salesforce-conference-heroku-app)
 
 1. Click the **Deploy to Heroku** button
     - For **App Name**, specify a name for your application. For example, if you specify my-conference, your application will be available at http://my-conference.herokuapp.com. Your app name has to be unique on the herokuapp.com domain.
